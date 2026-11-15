@@ -8,10 +8,9 @@
 ## [🇮🇷 فارسی](README.fa.md)  &nbsp;&nbsp;|&nbsp;&nbsp;  [🇬🇧 English](README.en.md)
 
 </div>
-## [مرور سریع](qucik-review.md)
 ---
 <div align="center">
-
+## [مرور سریع](qucik-review.md)
 </div>
 
 ---
