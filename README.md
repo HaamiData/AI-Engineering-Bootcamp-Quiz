@@ -7,7 +7,7 @@
 
 ## [🇮🇷 فارسی](README.fa.md)  &nbsp;&nbsp;|&nbsp;&nbsp;  [🇬🇧 English](README.en.md)
 
-## [مرور سریع](qucik-review.md)
+## [مرور سریع](quick-review.md)
 
 </div>
 ---
