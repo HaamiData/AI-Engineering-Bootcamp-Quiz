@@ -53,7 +53,6 @@ A collection of multiple-choice questions on **AI engineering** (RAG, model eval
 ├── README.fa.md
 ├── README.en.md         ← this page
 ├── LICENSE
-├── docs/                ← GitHub Desktop upload guide (Persian & English)
 └── questions/
     ├── fa/  q01.md …    ← questions in Persian
     └── en/  q01.md …    ← questions in English

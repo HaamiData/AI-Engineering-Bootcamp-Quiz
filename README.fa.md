@@ -55,7 +55,6 @@
 ├── README.fa.md         ← این صفحه
 ├── README.en.md
 ├── LICENSE
-├── docs/                ← راهنمای بارگذاری با GitHub Desktop (فارسی و انگلیسی)
 └── questions/
     ├── fa/  q01.md …    ← سوال‌ها به فارسی
     └── en/  q01.md …    ← سوال‌ها به انگلیسی
