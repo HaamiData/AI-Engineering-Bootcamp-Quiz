@@ -59,11 +59,6 @@ A collection of multiple-choice questions on **AI engineering** (RAG, model eval
     └── en/  q01.md …    ← questions in English
 ```
 
-## 📘 GitHub Desktop upload guide
-
-- [English guide](docs/github-desktop-guide.en.md)
-- [راهنمای فارسی](docs/github-desktop-guide.fa.md)
-
 ## ⚠️ Important notes
 
 - The correct options reflect the **author's judgment**. If you disagree with an answer, please open an **Issue**.
