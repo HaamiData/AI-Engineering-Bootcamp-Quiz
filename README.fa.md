@@ -61,11 +61,6 @@
     └── en/  q01.md …    ← سوال‌ها به انگلیسی
 ```
 
-## 📘 راهنمای بارگذاری با GitHub Desktop
-
-- [راهنمای فارسی](docs/github-desktop-guide.fa.md)
-- [English guide](docs/github-desktop-guide.en.md)
-
 ## ⚠️ توضیحات مهم
 
 - گزینه‌های صحیح بر اساس **نظر نگارنده** مشخص شده‌اند. اگر با پاسخی موافق نیستید، از بخش **Issues** پیشنهاد دهید.
