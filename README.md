@@ -7,11 +7,10 @@
 
 ## [🇮🇷 فارسی](README.fa.md)  &nbsp;&nbsp;|&nbsp;&nbsp;  [🇬🇧 English](README.en.md)
 
+## [مرور سریع](qucik-review.md)
+
 </div>
 ---
-<div align="center">
-## [مرور سریع](qucik-review.md)
-</div>
 
 ---
 
